@@ -1,1 +1,60 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ClassesAssocieesBDD/Utilisateurs.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/css/swagg.css</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/css/bootstrap.css</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/PageSiNonConnectee.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/HistoriqueOffres.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ClassesAssocieesBDD/RateOffer.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/Utilitaires/utils.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/Utilitaires/logInOutRegister.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/NotreAction.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/EtesVousSurDeSuppimerOffre.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ClassesAssocieesBDD/Rate.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/MonProfilMessagerie.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/OffreSelectionne.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/Utilitaires/secure.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/js/progression/progression.js</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/ApresDesinscriptionAvecSucces.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/AttribuerRate.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/Utilitaires/printForms.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/Accueil.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/MonProfilInformationsPersonnelles.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/ListeOffres.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/ConditionsUtilisation.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/ApresAvoirModifieOffreAvecSucces.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/ProfilUtilisateur.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/AnnulerOffreAcceptee.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ClassesAssocieesBDD/Messagerie.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/ModifierRetirerOffre.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/PageNonAuthorized.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/js/checkBox.js</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/PageInscription.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/Conversation.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/Offrir.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/pageadministrateur.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/MonProfilDeleteUser.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/MonProfilChangePassword.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/Utilitaires/Erreurs.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/js/progression/pro.js</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ClassesAssocieesBDD/Database.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/js/bootstrap.js</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/ApresAvoirOffertAvecSucces.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/Report.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ClassesAssocieesBDD/RaisonsDepart.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/ApresSEtreInscritAvecSucces.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/ApresAvoirAccepteOffre.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/VotreMessage.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/ApresModificationMDPAvecSucces.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ClassesAssocieesBDD/AlimentsExistant.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ClassesAssocieesBDD/Offres.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/images/img13.jpg</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/ContenuDesPages/MonProfilAccueil.php</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/css/deroule.css</file>
+            <file>file:/Applications/XAMPP/htdocs/ProjetModalEncours/index.php</file>
+        </group>
+    </open-files>
+</project-private>
