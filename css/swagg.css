@@ -1,0 +1,600 @@
+@import url("https://fonts.googleapis.com/css?family=Quicksand");
+/*Rating*/
+
+
+
+
+
+
+/****** Javascript ******/
+
+#toggle{height:auto; background:#eee; border:1px solid #900; margin:1em;text-align:center}
+#toggle p{text-align:center;padding:0}
+
+
+/****** Fin Javascript ******/
+
+
+.backimageOffrir{
+    background-image: url(../images/img6.jpg);    
+}
+.HistoriqueDons{
+    background-image: url(../images/img7.jpg);
+}
+.Messagerie{
+    background-image: url(../images/img5.jpg);
+}
+.OffreSelectionne{
+    background-image: url(../images/img4.jpeg);
+}
+.PageInscription{
+    background-image: url(../images/img1.jpg);
+}
+.ModifierOffre{
+    background-image: url(../images/img2.jpg);
+}
+.EtesVousSurDeSuppimerOffre{
+    background-image: url(../images/img3.jpg);
+}
+.annulerOffre{
+    background-image: url(../images/img8.jpg);
+}
+
+
+.col { margin-bottom: 20px; }
+
+[class*="col"] { margin-bottom: 20px; }
+      img { width: 100%; }
+      
+
+p
+{
+    font-family: 'Quicksand';
+    color: whitesmoke;
+    font-size: 20px; /* Paragraphes de 14 pixels */
+}
+.centragedecarte{
+    align-items: center;
+}
+
+.Li{
+    font-family:'Quicksand';
+    color : Moccasin;
+    font-size: 40px; 
+    text-decoration:none;
+}
+
+.Lie{
+    font-family:'Quicksand';
+    color : Moccasin;
+    font-size: 35px; 
+    text-decoration:none;
+}
+
+.Lien{
+    font-family:'Quicksand';
+    color : Moccasin;
+    font-size: 25px; 
+    text-decoration:none
+}
+.Lienn{
+    font-family:'Quicksand';
+    color : Moccasin;
+    font-size: 20px;
+    text-decoration:none
+}
+
+.Liennn{
+    font-family:'Quicksand';
+    color : Moccasin;
+    font-size: 18px;
+    text-decoration:none
+}
+
+
+.LienDeroulant{
+    font-family:'Quicksand';
+    color : LightSteelBlue;
+    font-size: 20px;
+    text-decoration: none;
+}
+.LienDeroulantMid{
+    font-family:'Quicksand';
+    color : LightSteelBlue;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.LienDeroulantBig{
+    font-family:'Quicksand';
+    color : LightSteelBlue;
+    font-size: 35px;
+    text-decoration: none;
+}
+.LienDeroulantBis{
+    font-family:'Quicksand';
+    color : black;
+    font-size: 20px;
+    text-decoration: none;
+}
+.LienDeroulantTer{
+    font-family:'Quicksand';
+    color : SandyBrown;
+    font-size: 20px;
+    text-decoration: none;
+}
+.LienDeroulantQuat{
+    font-family:'Quicksand';
+    color : Wheat;
+    font-size: 25px;
+    text-decoration: none;
+}
+.lienAncre{
+    font-family:'Quicksand';
+    color : lightslategray;
+    font-size: 25px;
+    text-decoration: none;
+}
+.LienReport{
+    font-family:'Quicksand';
+    color : #ffcccc;
+    font-size: 15px;
+    text-decoration: none;
+    text-align: right;
+}
+
+.modifierretireroffre{
+    font-family:'Quicksand';
+    text-align: right;
+    font-size: 20px;
+}
+.sourceTexte{
+    font-family:'Quicksand';
+    text-align: right;
+    font-size: 20px;
+    color: lightslategray;
+}
+
+.recapitulatifoffre{
+    font-family:'Quicksand';
+    color : LightSteelBlue;
+    font-size: 35px;
+    text-decoration: none;
+    font-style: italic;
+}
+
+
+/* Messages */
+.compartiment{
+    text-align: left;
+    border-width:1px 2px 3px 2px;
+    border-color:LightSteelBlue;
+    background-color: LightSteelBlue;
+    padding:0 10px;
+}
+.messageMoi{
+    text-align: right;
+    padding: 40px;
+}
+.messageToi{
+    text-align: left;
+    padding: 40px;
+}
+.messageContenu{
+    font-family: 'Quicksand';
+    font-size: 20px; /* Titres de 40 pixels */
+}
+
+
+.ERREUR{
+    font-family: 'Quicksand';
+    font-size: 50px; /* Titres de 40 pixels */
+    color: black;
+    text-align: center;
+}
+.titMax{
+    font-family: 'Quicksand';
+    font-size: 80px; /* Titres de 40 pixels */
+    color: #ffffff;
+}
+.tit
+{
+    font-family: 'Quicksand';
+    font-size: 40px; /* Titres de 40 pixels */
+    color: LightSteelBlue;
+    font-style: italic;
+}
+.tit0
+{
+    font-family: 'Quicksand';
+    font-size: 40px; /* Titres de 40 pixels */
+    color: LightSteelBlue;
+}
+
+.tit1{
+    font-family: 'Quicksand';
+    font-size: 45px; /* Titres de 40 pixels */
+
+}
+.tit2{
+    font-family: 'Quicksand';
+    font-size: 40px;
+}
+.tit2It{
+    font-family: 'Quicksand';
+    font-size: 30px;
+    font-style: italic;
+}
+
+.tit3{ /*h3*/
+    font-family: 'Quicksand';
+    font-size: 35px;
+}
+.tit3Jaune{ /*h3*/
+    font-family: 'Quicksand';
+    font-size: 35px;
+    color: moccasin;
+}
+
+.tit3It{ /*h3*/
+    font-family: 'Quicksand';
+    font-size: 25px;
+    font-style: italic;
+}
+
+
+.tit4{ /*h4*/
+    font-family: 'Quicksand';
+    font-size: 25px;
+}
+.tit5{ /*h5*/
+    font-family: 'Quicksand';
+    font-size: 20px;
+}
+
+.jumbo{
+    font-family: 'Quicksand';
+    color: whitesmoke;
+    font-size : 80px;
+    text-align: center;
+
+}
+
+.ConnectezVous{
+    font-family: 'Quicksand';
+    color: whitesmoke;
+    font-size : 20px;
+}
+
+body {
+  font-family: "Quicksand", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.42857143;
+  color: #333;
+  background:-webkit-gradient(linear, 100% 15%, 0% 100%, from(#143737), to(#198B45));
+
+}
+
+
+.listNotreAction{
+    color: whitesmoke;
+    font-family: "Quicksand";
+    font-style:italic;
+    font-size: 24px;
+}
+
+
+
+
+
+/* Le style associée à nos formluaires*/
+.form-style-6
+{
+    max-width: 800px;
+    padding: 10px 20px;
+    background: #f4f7f8;
+    margin: 10px auto;
+    padding: 20px;
+    background: #f4f7f8;
+    border-radius: 8px;
+    font-family: "Quicksand";
+}
+.form-style-6
+fieldset{
+    border: none;
+}
+
+.form-style-6
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+.form-style-6
+input[type="text"],
+.form-style-6
+input[type="date"],
+.form-style-6
+input[type="datetime"],
+.form-style-6
+input[type="email"],
+.form-style-6
+input[type='int'],
+.form-style-6
+input[type='password'],
+.form-style-6
+input[type="number"],
+.form-style-6
+input[type="search"],
+.form-style-6
+input[type="time"],
+.form-style-6
+input[type="url"],
+.form-style-6
+textarea,
+.form-style-6
+select {
+    font-family: 'Quicksand';
+    background: rgba(255,255,255,.1);
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    margin: 0;
+    outline: 0;
+    padding: 7px;
+    width: 100%;
+    box-sizing: border-box; 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box; 
+    background-color: #e8eeef;
+    color:#8a97a0;
+    -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    margin-bottom: 10px;
+    
+}
+.form-style-6
+input[type="text"]:focus,
+.form-style-6
+input[type="date"]:focus,
+.form-style-6
+input[type="datetime"]:focus,
+.form-style-6
+input[type="email"]:focus,
+.form-style-6
+input[type="number"]:focus,
+.form-style-6
+input[type="search"]:focus,
+.form-style-6
+input[type="time"]:focus,
+.form-style-6
+input[type="url"]:focus,
+.form-style-6
+textarea:focus,
+.form-style-6
+select:focus{
+    background: #d2d9dd;
+}
+.form-style-6
+select{
+    -webkit-appearance: menulist-button;
+    height:35px;
+}
+.form-style-6
+.number {
+    background: #1abc9c;
+    color: #fff;
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    font-size: 0.8em;
+    margin-right: 4px;
+    line-height: 30px;
+    text-align: center;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.2);
+    border-radius: 15px 15px 15px 0px;
+}
+
+.form-style-6
+input[type="submit"],
+.form-style-6
+input[type="button"]
+{
+    position: relative;
+    display: block;
+    padding: 19px 39px 18px 39px;
+    color: #FFF;
+    margin: 0 auto;
+    background: #1abc9c;
+    font-size: 18px;
+    text-align: center;
+    font-style: normal;
+    width: 100%;
+    border: 1px solid #16a085;
+    border-width: 1px 1px 3px;
+    margin-bottom: 10px;
+}
+.form-style-6
+input[type="submit"]:hover,
+.form-style-6
+input[type="button"]:hover
+{
+    background: #109177;
+}
+
+
+
+/* Même formulaire, mais plus large */ 
+
+.form-style-5{
+    max-width: 500px;
+    padding: 10px 20px;
+    background: #f4f7f8;
+    margin: 10px auto;
+    padding: 20px;
+    background: #f4f7f8;
+    border-radius: 8px;
+    font-family: "Quicksand";
+}
+.form-style-5 fieldset{
+    border: none;
+}
+
+.form-style-5 label {
+    display: block;
+    margin-bottom: 8px;
+}
+.form-style-5 input[type="text"],
+.form-style-5 input[type="date"],
+.form-style-5 input[type="datetime"],
+.form-style-5 input[type="email"],
+.form-style-5 input[type='int'],
+.form-style-5 input[type='password'],
+.form-style-5 input[type="number"],
+.form-style-5 input[type="search"],
+.form-style-5 input[type="time"],
+.form-style-5 input[type="url"],
+.form-style-5 textarea,
+.form-style-5 select {
+    font-family: 'Quicksand';
+    background: rgba(255,255,255,.1);
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    margin: 0;
+    outline: 0;
+    padding: 7px;
+    width: 100%;
+    box-sizing: border-box; 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box; 
+    background-color: #e8eeef;
+    color:#8a97a0;
+    -webkit-box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    margin-bottom: 10px;
+    
+}
+.form-style-5 input[type="text"]:focus,
+.form-style-5 input[type="date"]:focus,
+.form-style-5 input[type="datetime"]:focus,
+.form-style-5 input[type="email"]:focus,
+.form-style-5 input[type="number"]:focus,
+.form-style-5 input[type="search"]:focus,
+.form-style-5 input[type="time"]:focus,
+.form-style-5 input[type="url"]:focus,
+.form-style-5 textarea:focus,
+.form-style-5 select:focus{
+    background: #d2d9dd;
+}
+.form-style-5 select{
+    -webkit-appearance: menulist-button;
+    height:35px;
+}
+.form-style-5 .number {
+    background: #1abc9c;
+    color: #fff;
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+    font-size: 0.8em;
+    margin-right: 4px;
+    line-height: 30px;
+    text-align: center;
+    text-shadow: 0 1px 0 rgba(255,255,255,0.2);
+    border-radius: 15px 15px 15px 0px;
+}
+
+.form-style-5 input[type="submit"],
+.form-style-5 input[type="button"]
+{
+    position: relative;
+    display: block;
+    padding: 19px 39px 18px 39px;
+    color: #FFF;
+    margin: 0 auto;
+    background: #1abc9c;
+    font-size: 18px;
+    text-align: center;
+    font-style: normal;
+    width: 100%;
+    border: 1px solid #16a085;
+    border-width: 1px 1px 3px;
+    margin-bottom: 10px;
+}
+.form-style-5 input[type="submit"]:hover,
+.form-style-5 input[type="button"]:hover
+{
+    background: #109177;
+}
+
+
+
+
+
+.tit3It{ 
+    font-family: 'Quicksand';
+    font-size: 25px;
+    font-style: italic;
+}
+.tit4It{ 
+    font-family: 'Quicksand';
+    font-size: 20px;
+    font-style: italic;
+}
+
+.Legend {
+    font-size: 2.4em;
+    margin-bottom: 10px;
+}
+.Leg0{
+   font-size: 1.2em;
+   margin-bottom: 10px; 
+}
+.Legend0 {
+    font-size: 1.6em;
+    margin-bottom: 10px;
+}
+.Legend1 {
+    font-size: 2.0em;
+    margin-bottom: 10px;
+}
+.Legend2 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+.Legend3 {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+.Legend4 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+
+
+.t1 {
+    font-family: 'Quicksand';
+    font-size: 40px;
+     color:lightslategray;
+}
+
+
+
+.p1{
+   font-family: 'Quicksand';
+   font-size: 19px;
+   color:#ffffff;
+}
+
+.p2{
+   font-family: 'Quicksand';
+   color:lightslategray; 
+}
+
+.conditionutilisation{
+   font-family: 'Quicksand';
+   color:lightslategray;  
+}
+
+
+
